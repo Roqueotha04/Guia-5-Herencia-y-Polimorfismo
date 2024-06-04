@@ -4,7 +4,7 @@ import java.util.Objects;
 
 public class Serie extends Multimedia{
     private int numeroDeTemporadas;
-    private static int datoEstatico=0;
+    private static int datoEstatico=1;
     private String creador;
 
     public Serie() {
